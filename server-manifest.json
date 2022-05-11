@@ -1,9 +1,9 @@
 {
   "name": "Sky Island",
-  "author": "2490387496@qq.com",
+  "author": "DE",
   "version": "1.0",
   "description": "",
-  "fileApi": "http://129k-01.mcstory.cc:32362/down/VuS666aSIe6J",
+  "fileApi": "https://raw.githubusercontent.com/DE-SHARK/sync-test/main",
   "files": [
     {
       "path": "authlib-injector.jar",
@@ -84,10 +84,6 @@
     {
       "path": "config/steampowered-common.toml",
       "hash": "ae832ae4ed789731a16152be311e3b182086a462"
-    },
-    {
-      "path": "hmclversion.cfg",
-      "hash": "5a30eee17286c25faaccaf9f992a96ea205c0dbb"
     },
     {
       "path": "kubejs/assets/create/lang/zh_cn.json",
@@ -671,7 +667,7 @@
     },
     {
       "path": "kubejs/client_scripts/client.js",
-      "hash": "b58ab0e0178e98bca6002f06567c708d0bf223b0"
+      "hash": "e82b46aad3035b209cc171c706cb32f692a6afcc"
     },
     {
       "path": "kubejs/client_scripts/ponder.js",
@@ -1782,7 +1778,7 @@
       "hash": "6b995b5ea2a0314382d55a6bae0aedb1cf1177ca"
     },
     {
-      "path": "resourcepacks/Forge服叉号移除.zip",
+      "path": "resourcepacks/Forge fix.zip",
       "hash": "726589949b484e33b53e4b3a3c173c859b16a4a2"
     },
     {
@@ -1800,10 +1796,6 @@
     {
       "path": "servers.dat",
       "hash": "951083425ac006565091e341262603c45546c284"
-    },
-    {
-      "path": "ServerSyncClient.exe",
-      "hash": "5d046988f70984d8f66ad2008998b68f8f1039f0"
     }
   ],
   "addons": [

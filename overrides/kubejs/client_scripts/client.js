@@ -132,6 +132,7 @@ onEvent('jei.remove.categories', event => {
 
 function unwantedItem(event) {
 	//chouti
+	event.hide(/storagedrawers:*/)
 
 	event.hide('botania:loonium')
 	event.hide('botania:floating_loonium')
