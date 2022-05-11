@@ -1,0 +1,226 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 3, 2022, 8:19:25 PM
+
+#vampirism:vampire
+- vampirism:vampire
+- vampirism:vampire_imob
+- vampirism:advanced_vampire
+- vampirism:advanced_vampire_imob
+- vampirism:vampire_baron
+- vampirism:task_master_vampire
+
+#vampirism:advanced_vampire
+- vampirism:advanced_vampire
+- vampirism:advanced_vampire_imob
+
+#vanillafoodpantry:horse_like
+- minecraft:horse
+- minecraft:donkey
+- minecraft:mule
+- eanimod:enhanced_horse?
+
+#tconstruct:rare_mobs
+- minecraft:wither
+- minecraft:ender_dragon
+- minecraft:elder_guardian
+- minecraft:evoker
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+
+#tconstruct:melting/show_in_default
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:villager
+- minecraft:player
+
+#vanillafoodpantry:llamas
+- minecraft:llama
+- minecraft:trader_llama
+- eanimod:enhanced_llama?
+
+#carrots:food/seafood
+- #carrots:food/small_fish
+- minecraft:tropical_fish
+- minecraft:squid
+- minecraft:dolphin
+- minecraft:turtle
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- quark:frog?
+
+#forge:boats
+- minecraft:boat
+
+#tconstruct:piggybackpack_blacklist
+
+#vanillafoodpantry:birdies
+- minecraft:chicken
+- minecraft:parrot
+
+#forge:traveling_merchants
+- minecraft:wandering_trader
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#forge:milkable_sheep
+- minecraft:sheep
+
+#tconstruct:melting/hide_in_default
+- minecraft:giant
+
+#vanillafoodpantry:feedable
+- minecraft:pig
+- minecraft:cow
+- minecraft:mooshroom
+- minecraft:donkey
+- minecraft:mule
+- minecraft:horse
+- minecraft:llama
+- minecraft:trader_llama
+
+#forge:slimes
+- minecraft:slime
+- tconstruct:earth_slime
+- tconstruct:sky_slime
+- tconstruct:ender_slime
+- tconstruct:terracube
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#forge:birds
+- minecraft:parrot
+
+#per-viam-invenire:replace_vanilla_navigator
+- mekanism:robit
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- mekanism:flame
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#vanillafoodpantry:bears
+- minecraft:polar_bear
+
+#forge:creepers
+- minecraft:creeper
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#vanillafoodpantry:horses
+- minecraft:horse
+- eanimod:enhanced_horse?
+
+#vanillafoodpantry:cows
+- minecraft:cow
+- minecraft:mooshroom
+- eanimod:enhanced_cow?
+- eanimod:enhanced_mooshroom?
+- eanimod:enhanced_moobloom?
+
+#vanillafoodpantry:squid
+- minecraft:squid
+
+#vanillafoodpantry:pigs
+- minecraft:pig
+- minecraft:hoglin
+- eanimod:enhanced_pig?
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#tconstruct:bacon_producer
+- minecraft:pig
+- minecraft:piglin
+- minecraft:hoglin
+
+#forge:milkable_shroom_cows
+- minecraft:mooshroom
+
+#vampirism:zombies
+- minecraft:zombie
+- minecraft:husk
+- minecraft:drowned
+- minecraft:zombie_villager
+- minecraft:zombie_horse
+
+#vampirism:hunter
+- vampirism:hunter
+- vampirism:hunter_imob
+- vampirism:advanced_hunter
+- vampirism:advanced_hunter_imob
+- vampirism:hunter_trainer
+- vampirism:hunter_trainer
+- vampirism:hunter_trainer_dummy
+- vampirism:task_master_hunter
+
+#carrots:food/small_fish
+- minecraft:cod
+- minecraft:salmon
+- minecraft:pufferfish
+
+#forge:milkable_dairy_cows
+- minecraft:cow
+
+#vampirism:advanced_hunter
+- vampirism:advanced_hunter
+- vampirism:advanced_hunter_imob

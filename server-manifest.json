@@ -1,0 +1,1819 @@
+{
+  "name": "Sky Island",
+  "author": "2490387496@qq.com",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "http://129k-01.mcstory.cc:32362/down/VuS666aSIe6J",
+  "files": [
+    {
+      "path": "authlib-injector.jar",
+      "hash": "24945271348c602038b6cd724b74219b05370c15"
+    },
+    {
+      "path": "config/advancedRocketry.toml",
+      "hash": "943450fdc02addefc35293f686e4568881df47cc"
+    },
+    {
+      "path": "config/advRocketry/asteroidConfig.xml",
+      "hash": "c934a3c734d016de39216d5eef6b1068280a7f6a"
+    },
+    {
+      "path": "config/advRocketry/oreConfig.xml",
+      "hash": "e5f576dac48a3a0889dd532458b1d5793d953eeb"
+    },
+    {
+      "path": "config/advRocketry/planetDefs.xml",
+      "hash": "60dc37fec1da0115cfe7e3a2866a21824ea72c53"
+    },
+    {
+      "path": "config/appliedenergistics2-client.toml",
+      "hash": "f075c3f871015d95d10af8494bdb008f20ced599"
+    },
+    {
+      "path": "config/cobblegenrandomizer-common.toml",
+      "hash": "714d7c53ebe61553735ab476ed52c94b8edaecdb"
+    },
+    {
+      "path": "config/defaultoptions/keybindings.txt",
+      "hash": "61b3f2092704aae2b7be6720addd1576e1fadc00"
+    },
+    {
+      "path": "config/defaultoptions/options.txt",
+      "hash": "aa58c0be07bcfd3b713a8961f9cb8517f97b55c1"
+    },
+    {
+      "path": "config/defaultoptions/servers.dat",
+      "hash": "951083425ac006565091e341262603c45546c284"
+    },
+    {
+      "path": "config/defaultoptions-common.toml",
+      "hash": "c7d901b92b60648cbdc1136ec9a1900087fd9c65"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "6362a95621804caf0e1d10c448aa168cf0617822"
+    },
+    {
+      "path": "config/jei/bookmarks.ini",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "48fcb62ce51cae60ad16a95468bce28e972aaf8b"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "6a738f4d4062f540cb8c36dd754aa1bc67be61ae"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "03a77d4fae7caab04e6e3f91cd1567854a1a398b"
+    },
+    {
+      "path": "config/jei-client.toml",
+      "hash": "c810065aa912976eb485f9422a0e7ef630a8cb4d"
+    },
+    {
+      "path": "config/serversync/serversync-client.cfg",
+      "hash": "97b3f7d53e0b744b232d09815018f8cf5857be59"
+    },
+    {
+      "path": "config/sidebar_buttons.json",
+      "hash": "811305473121add9349fa8d51a38de605b759d83"
+    },
+    {
+      "path": "config/steampowered-common.toml",
+      "hash": "ae832ae4ed789731a16152be311e3b182086a462"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "5a30eee17286c25faaccaf9f992a96ea205c0dbb"
+    },
+    {
+      "path": "kubejs/assets/create/lang/zh_cn.json",
+      "hash": "7208932e9924179faf2e5bedb5c0d4da7c690f31"
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/zh_cn.json",
+      "hash": "bb3e76e009a44a55162d66f3816afbd3ee0619e7"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/accellerator.json",
+      "hash": "35a2d2a103f76069d88b2a8ebf0abfe710ccf89d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/andesite_machine.json",
+      "hash": "ecda2b60ecf45bc2ccabd13f1f3fce663a0de616"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/brass_machine.json",
+      "hash": "c2548464ad1fbf9a14b6e95328c2a7a818d64fba"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/catalyst.json",
+      "hash": "f3569aa4293a15250b0890ffba9b265d286675b0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/chaos_catalyst.json",
+      "hash": "12a2261ce5e719bbaa0b4214722722095bec2599"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/copper_machine.json",
+      "hash": "f6081b674204806b8f4b36fe7b8bbb9aa16a0f2b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/enderium_casing.json",
+      "hash": "1dd49920a80560099bf7c4b212a696360c7483ac"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/enderium_machine.json",
+      "hash": "d339589a6fc86212e992a45e523da62709a07757"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/machine.json",
+      "hash": "916926ae781028abe0d07c1a7a83ba8b7143eb83"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/mundane_substrate.json",
+      "hash": "936675311a4794f6aad9850acacf7ecc09f72121"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/ponder_laser_lamp.json",
+      "hash": "8a19a822de8cf6b1c25ebf15fb89415caf885976"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/ponder_laser_lamp_on.json",
+      "hash": "d250b61ca1aec7ec8853358e5fec21939da41616"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/substrate.json",
+      "hash": "9c071c41f1fe82965649b4f103ab71beab7bd3e4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/block/zinc_machine.json",
+      "hash": "3670ba4a6db1837b65034b53dd2e25ee8e09424e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/models/item/computation_matrix.json",
+      "hash": "8e710dab5114e61d5893a27eff3765d916f9dc83"
+    },
+    {
+      "path": "kubejs/assets/kubejs/ponder/laser_alchemy.nbt",
+      "hash": "776e93598ed1fecd26f770f192de80a220998ccb"
+    },
+    {
+      "path": "kubejs/assets/kubejs/ponder/rocket_scene.nbt",
+      "hash": "19c9cee094391ab17b61487acb863c2de256ba85"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/accellerator_glass.png",
+      "hash": "d9b4cf322126267fb4283a04fe870ac1cc0fce5a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/cage_lamp.png",
+      "hash": "1e56651a00afebe9f22dbfac2847f43f9a80d2be"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/catalyst_glass.png",
+      "hash": "d729428fdddf5c13ccf5c19633aabe6a18852af4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/chaos_glass.png",
+      "hash": "f0b2558f460635af3a4a82ac79ed94d44145c4f5"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix.png",
+      "hash": "f9b03b0aabcd8387a18664f3beea88ad8cb2b8f0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix_2.png",
+      "hash": "788ced68d1ce78816f4f557256513b0612320189"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/computation_matrix_2.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing.png",
+      "hash": "94a32de83809b5ce7b086f0101bcffce21111ed1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing.png.mcmeta",
+      "hash": "0baec0d9ecf0efc63da69be9617569c74e3a8db9"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_ctm.png",
+      "hash": "37a79f4c2dc96098b26752ac7670f12b09d6905d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_top.png",
+      "hash": "43ba502e6f8d55a69196d76fdd4aa1c3fb074132"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_top.png.mcmeta",
+      "hash": "8a0a794c60ca09edea2d0e502b34387ca0b6ab87"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_casing_top_ctm.png",
+      "hash": "102f91c75bf2a026031733fd3c2d6b639b8831af"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_bottom.png",
+      "hash": "69e55658ce36c0c9d24571b6f68607975db03c7e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_inner.png",
+      "hash": "bf1bccf5c7dd6342b1fd606e343d7453575e82b2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_side.png",
+      "hash": "d14319fc68dbd2e359968f35f2d2c6ec5e41a37a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/enderium_machine_top.png",
+      "hash": "0b1259cc09a1dbb0e47ba63493208256966cfbaf"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/fluix_casing.png",
+      "hash": "1fece9903607306ee3612960c4ce4ba53672d812"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/fluix_casing.png.mcmeta",
+      "hash": "5f57c3eb6279666f3037d11a4b18742de1c50d19"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/fluix_casing_ctm.png",
+      "hash": "dc0b076eeeed5f18844aab067e774094d7ea3e35"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing.png",
+      "hash": "25d6d7cc6bf99bedba19456ec278be240d4923d7"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing.png.mcmeta",
+      "hash": "82c362c6e8f36cb6f0e3bd245d02845c9e4404c2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing_bottom.png",
+      "hash": "bcf8f39123fd03240c9f56405d360704972ee59e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing_ctm.png",
+      "hash": "98b28a192dd6554c0d5690d185916c5ce443cb8a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/invar_casing_top.png",
+      "hash": "2b5f5f31f54491ca88ccd2c35b50af4129f7196d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/mundane_glass.png",
+      "hash": "298d96d5fcac947f1c04a8e5e5e9e3d990f0aade"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/reagent_glass.png",
+      "hash": "5c6aa5a56b459e0864929e96c9a8feb4b40f0f7f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_casing.png",
+      "hash": "ebddc9a2ee32a139714d82fa4163d5ce67bf8382"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_casing.png.mcmeta",
+      "hash": "c2c9209aa097f664989f46679460da453de17929"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_casing_ctm.png",
+      "hash": "37faaa1dfbf47d388f8f5f8cfcbb671860e7332e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_bottom.png",
+      "hash": "fb1213a46c28c1d0dc5821ceaed4c2caac7cdcd0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_inner.png",
+      "hash": "97950dc0f27eaf8dfba52da5fc5d5fa12f5f2a58"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_side.png",
+      "hash": "fcc932ce81e7f2ad706f4e2262be6e59ee8b8ff1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/zinc_machine_top.png",
+      "hash": "927dcb78931f1ea8c99c4f5a99db257a11027d3a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png",
+      "hash": "11f806d8493dd9fa4ec847fec694a51fc9ec9689"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png.mcmeta",
+      "hash": "95ab03d03abbef1a4e26de775b8e15f0ca4f0d8a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/fine_sand_still.png",
+      "hash": "290b81ad9a68e0ed14965178c5877a3a78582860"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_flow.png",
+      "hash": "5ddee2519aef984c285a4574557d7aa3b9e56269"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_flow.png.mcmeta",
+      "hash": "4bb0a08dec1ef6e1ea972ab04efbfd9332e3ad4d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_still.png",
+      "hash": "cac40d4d03d513546b5636ea7aa469b24d46337d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/matrix_still.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_flow.png",
+      "hash": "52a19f24ceee4fb2b73a0954b95ca489cb2ffb87"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_flow.png.mcmeta",
+      "hash": "4bb0a08dec1ef6e1ea972ab04efbfd9332e3ad4d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_still.png",
+      "hash": "90c1fe7fa39abfd5eadc025d962eb5a660add6f2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/fluid/number_still.png.mcmeta",
+      "hash": "8cb26fa6b95c89d84bb589056b201edb8f9390da"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/abstruse_mechanism.png",
+      "hash": "8a1dcbbbd8a21871a71cc2b7b9b1d125f28d6900"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/algal_blend.png",
+      "hash": "98a2e7bf45624d7bf9955ac7febc01dbc66d625a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/algal_brick.png",
+      "hash": "77fed2cd5dbc8f2811bc67873b248908a8bc74c5"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/calculation_mechanism.png",
+      "hash": "24842948e79b4228d485c12023d3213787957094"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/chromatic_resonator.png",
+      "hash": "8371088121abf329e4aade316d3f65ec7f1ee307"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/chromatic_resonator.png.mcmeta",
+      "hash": "4d97d0b7f5dbf540e76bde90c0c7da3410561bbb"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/clump_platinum.png",
+      "hash": "3c88ec7607f4678ed25546f39e0a8ae4d83a4531"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/crystal_platinum.png",
+      "hash": "5a27d1c3656a47b639215bf0623e4c9483c47543"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/dirty_dust_platinum.png",
+      "hash": "1843fc074d62d3181e1c3600c0965d8f5f5b3b73"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/divide.png",
+      "hash": "38f46abad88a1bc275b6f752525e745a92d620a4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/divide_cast.png",
+      "hash": "c42d1707af76eba9e112b761aa0d09d5b93b8cc0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/dust_platinum.png",
+      "hash": "9b55db901d9bd1a052a9041f3764620aadc90872"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png",
+      "hash": "570614de5b824aba8d2e442642b216209c25790b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png.mcmeta",
+      "hash": "6f5e2575846b91b3d208b59a596c8ec0de2c914f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/eight.png",
+      "hash": "7dda51abe41e200d3aef9ffc742a61b6f66e8af1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/eight_cast.png",
+      "hash": "24aacc7690f02f35e8cb9240fb8e4d41f9704a87"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/five.png",
+      "hash": "a064fa3cdc398990dbd1f513cf19e92eac30acbd"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/four.png",
+      "hash": "fe6940b2536c93899e11e873963c74d8f2bfd574"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_aluminium.png",
+      "hash": "e7bb5d82ad85b528cbdb02f3da2eea94547f0bd4"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_cobalt.png",
+      "hash": "8edfd11adf1f89caaaac7a8a61a4872931ccb3d7"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_copper.png",
+      "hash": "9b8c43dd6dc03d62d2ee579b59e660c39aaa466b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_gold.png",
+      "hash": "1677284c96b1c67f893c203c7f9afcfac55b9564"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_iron.png",
+      "hash": "9c58f1aab487b6d8808a79f94fc8a5f8c73cef5f"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_lead.png",
+      "hash": "270f67eadc1965e442c5d322889936eabd36bf20"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_nickel.png",
+      "hash": "075228b6ff04ba36c3ca2cdf96adda8635c2df20"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_osmium.png",
+      "hash": "6b9399cc10b7c480d1b83d9b18c9bc0be47ba250"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_silver.png",
+      "hash": "132e5aa41801deee7b1213793fde059ed4c3f69e"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_tin.png",
+      "hash": "445b0a7a78e3e458e3eb6ccf0742117a35d4268c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_uranium.png",
+      "hash": "3aca40055aaef0058f370f19f0203004c0353e34"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/gravel_zinc.png",
+      "hash": "130474989c3824415ea1d4cc5a798751657726b8"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_abstruse_mechanism.png",
+      "hash": "9b8d2e438f20e638bc19a49b277a4d46fa31da40"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_advanced_control_circuit.png",
+      "hash": "5c9fb0f8ec7939713753cb5b764f28fff02629d9"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_calculation_mechanism.png",
+      "hash": "eda26eb56d8ea8c6cede5c98d2d7546eb79dd76b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_calculation_processor.png",
+      "hash": "53470712ac3746330e93ed0964d646751901f5cf"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_elite_control_circuit.png",
+      "hash": "1ba77d8784906614ecb0c33d18ea41f64c5d4929"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_engineering_processor.png",
+      "hash": "1d9532eb33cee10ffb92257cb036a0ea06e11219"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_inductive_mechanism.png",
+      "hash": "d8a86642bfe1839ba801747e5ea4ab71768b0d71"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_infernal_mechanism.png",
+      "hash": "c465afddc4b30fcb2517c21deb86c6abf4e2f25d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_kinetic_mechanism.png",
+      "hash": "8522ef7082b6493992c00dc62d7321c59e7824b7"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_logic_processor.png",
+      "hash": "abcb42ad6e8ca7a33e8c69f0a82cf749780e09aa"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_sealed_mechanism.png",
+      "hash": "4ea2c950c09adfdefb84c17d59b3da85ceea7567"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/incomplete_ultimate_control_circuit.png",
+      "hash": "98321f3a2c8a252e85526a681b2049839214e0d3"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/inductive_mechanism.png",
+      "hash": "e79da948a180264d0be519addc12e71890f4e0b1"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/infernal_mechanism.png",
+      "hash": "3d0ffcb7ed96a85ba7faaae69f2d12e1587f4d84"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/ingot_platinum.png",
+      "hash": "825ff224fcd0b1cc96a036518da53c920c0eec85"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/ingot_uranium.png",
+      "hash": "c9f707359d51a5eaa0162a293906de9e64dd372d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/invar_compound.png",
+      "hash": "52d05436b02b2fc2d8966ac7ca6b64dbbaa97328"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/kinetic_mechanism.png",
+      "hash": "47dd71bb7b39f58de017dd01d0e95461e8b384d6"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/minus.png",
+      "hash": "4ec712ba11471ac924202698f9f5853d9ebbf36c"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/minus_cast.png",
+      "hash": "b474f8e415300d3d688aa28aa9a681676db76721"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/missingno.png",
+      "hash": "ac687ea864b0e35f5fa9fc935d51e2324d7f0512"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/missingno.png.mcmeta",
+      "hash": "1255c5acd6c8c6affc0cc0bc851a7deaa7064ec2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/multiply.png",
+      "hash": "0ae8b0242d84b64fdc4c8f6c028f4ace47d73a00"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/multiply_cast.png",
+      "hash": "ad7bc509c931883598cc7e27a8daa6d895e66725"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/nickel_compound.png",
+      "hash": "3599c8ec6b48fac49068a1becd84e11501229a56"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/nine.png",
+      "hash": "d81b061c7e021d1f54d694e5b0a0358bf659dbf2"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/one.png",
+      "hash": "7ad09a194338a33886277242a1d25416d4d88155"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/plus.png",
+      "hash": "8ee55cfbfa91759096096f0c7078a18f5da28070"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/plus_cast.png",
+      "hash": "9ee1c5caa83c3539b863be2279c08c3662f83693"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/purified_sand.png",
+      "hash": "91f2ded3240addd5d2a7e94eedaf7ca806ad3667"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/radiant_coil.png",
+      "hash": "aa542c4c9d1829ecfde77a7015a19d34ab7ef242"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/radiant_sheet.png",
+      "hash": "b71c01dd9b9173be6e92ee5b1e15f7cc57601e95"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/sealed_mechanism.png",
+      "hash": "183e351756191a352c5e1ac3d1026922b916b5ea"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/seven.png",
+      "hash": "542f2143379606ee1f46213a789dd269e8fbdadc"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/shard_platinum.png",
+      "hash": "89ec16bc4872b7841141475693e09763cc74999b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/silicon_compound.png",
+      "hash": "5d4205c8cf2e0a6857ec6af50885db29902a7fc0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/six.png",
+      "hash": "26599eb597aba62d8598ae679ce84f2cc6f797d3"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/thermal_cast.png",
+      "hash": "bed91486f2212102426377a36d2e9557ef2ec21a"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/three.png",
+      "hash": "c9e903a4fefb6591ab0a73ff03e0ad630a72569d"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/three_cast.png",
+      "hash": "66400451531811c2c3540c4f2ce2b029495694ab"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/two.png",
+      "hash": "6af08a5ec9051a4717ec96ce969d53d9b4d3237b"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/zero.png",
+      "hash": "1c2568246f91fa0848695a9d53b584affc6090d8"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/zinc_dust.png",
+      "hash": "03a98472f1e8826fba2d1d99469f29a7d54958b0"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/zinc_sheet.png",
+      "hash": "bc1be147f4cc4caf48d75f0fbbcb10f33695dde5"
+    },
+    {
+      "path": "kubejs/assets/ponderjs_generated/lang/en_us.json",
+      "hash": "ef331a3b3384ada44d02f59a5555cd9286352060"
+    },
+    {
+      "path": "kubejs/assets/ponderjs_generated/lang/zh_cn.json",
+      "hash": "0e989b9e0afb3b862a678f011793098e053b46dc"
+    },
+    {
+      "path": "kubejs/assets/projectred-core/lang/zh_cn.json",
+      "hash": "79da19d0a9bec4d4d4cdc92878aaa4dcb9d74572"
+    },
+    {
+      "path": "kubejs/assets/thermal/lang/zh_cn.json",
+      "hash": "5430221721cacf877f26c897cbdacf315c9cadd8"
+    },
+    {
+      "path": "kubejs/client_scripts/client.js",
+      "hash": "b58ab0e0178e98bca6002f06567c708d0bf223b0"
+    },
+    {
+      "path": "kubejs/client_scripts/ponder.js",
+      "hash": "e63e96003fd1e60f7009595344db13922ba2f9fd"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "ae1789ab79fcf0f74e85a416aaa7d18a13be99b4"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "e8d86d18fcdb20acef62182d1f66d2df025fb2dd"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/moon_junk.json",
+      "hash": "2a1e71dae51cbe24f9c640375e23f9710a969e7e"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/moon_treasure.json",
+      "hash": "5fe5581d6e0ee7b14a090cbbb35dfe900c369009"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/patience_1.json",
+      "hash": "9a331045f8cf1487566527ac2296da05c48c563e"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/patience_2.json",
+      "hash": "f4bf96434a1fb72ecdc1ec3b9596533576567cf6"
+    },
+    {
+      "path": "kubejs/data/custom/loot_tables/chests/tinker.json",
+      "hash": "8911a0131c5d7a52305379407e9514f74a201953"
+    },
+    {
+      "path": "kubejs/exported/tags/blocks.txt",
+      "hash": "7ea58610d58ea97f9c297d498d62809e3d5fdc8f"
+    },
+    {
+      "path": "kubejs/exported/tags/enchantments.txt",
+      "hash": "87b260226a29fa0849f62db69ecea27ad0966d67"
+    },
+    {
+      "path": "kubejs/exported/tags/entity_types.txt",
+      "hash": "4aba3729e9f38c014b5aa07b19148232d583b208"
+    },
+    {
+      "path": "kubejs/exported/tags/fluids.txt",
+      "hash": "bfd398665d742948ab4b6370549f002b65ec8dc0"
+    },
+    {
+      "path": "kubejs/exported/tags/functions.txt",
+      "hash": "8429ea685716406fa2d38f0cc94fd1cc5fc0a842"
+    },
+    {
+      "path": "kubejs/exported/tags/gases.txt",
+      "hash": "2c475b9f7bc28d8a2ff0c57f5f89fee72d0fdedf"
+    },
+    {
+      "path": "kubejs/exported/tags/infuse_types.txt",
+      "hash": "deb1466ec962ae94e8f15d5b8788617c1054f46b"
+    },
+    {
+      "path": "kubejs/exported/tags/items.txt",
+      "hash": "485ae2313673c13116500da2f89902fb4506beaf"
+    },
+    {
+      "path": "kubejs/exported/tags/pigments.txt",
+      "hash": "ddaf1b39de287dc4eb2bbbf3327d3fc9de217125"
+    },
+    {
+      "path": "kubejs/exported/tags/potions.txt",
+      "hash": "ddaf1b39de287dc4eb2bbbf3327d3fc9de217125"
+    },
+    {
+      "path": "kubejs/exported/tags/slurries.txt",
+      "hash": "8e320c47bcc880e75a6b8bdec6e4f2918ebf0582"
+    },
+    {
+      "path": "kubejs/exported/tags/tile_entity_types.txt",
+      "hash": "1784d2466bce7f01b54e74fcbabf8a66a1e8949c"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "156b821ae3577c3d75825d18d71884a5f7f205a6"
+    },
+    {
+      "path": "kubejs/server_scripts/better_dynamo_placement.js",
+      "hash": "51bb69013f5669530c14e7593840e5d6ffb3ce80"
+    },
+    {
+      "path": "kubejs/server_scripts/tags.js",
+      "hash": "a9b35c1d7151f8cc3b02f38b48db8ab24cdc6697"
+    },
+    {
+      "path": "kubejs/startup_scripts/registery.js",
+      "hash": "10a3dc553f5c57fa383867aed3528abdf614aeb1"
+    },
+    {
+      "path": "local/ftbchunks/client-config.snbt",
+      "hash": "7d2e8be1d71be92fee1f4494d99701abe5ec9f7a"
+    },
+    {
+      "path": "mods/AdvancedRocketry-1.16.5-2.0.0-12-universal.jar",
+      "hash": "e77bc59dba59313af711f2c84be0d0a17486c009"
+    },
+    {
+      "path": "mods/AI-Improvements-1.16.5-0.4.0.jar",
+      "hash": "6494c2d8e88a0a280e4ca9e00e6ae47d3634c024"
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.16.x-2.3.0.jar",
+      "hash": "64c60e52886f4ea62f19fb0e7b8718ba5358e5a6"
+    },
+    {
+      "path": "mods/appliedenergistics2-8.4.7.jar",
+      "hash": "094025e39c8334556c069f8c21b19b4a54966b13"
+    },
+    {
+      "path": "mods/architectury-1.30.58.jar",
+      "hash": "35cd7a13553a448b6bda688f161b6f63fbb58539"
+    },
+    {
+      "path": "mods/AutoRegLib-1.6-49.jar",
+      "hash": "921cf73b9d31bce5d332115a5144c3fca2010f93"
+    },
+    {
+      "path": "mods/BetterAdvancements-1.16.5-0.1.0.108.jar",
+      "hash": "1dfeb432ee24b7f26dd51c5a5cacde30e785f6d8"
+    },
+    {
+      "path": "mods/BetterPingDisplay-1.16.5-1.0.jar",
+      "hash": "455189969fa4aa9c0507be242c2f29efc9eeb1c0"
+    },
+    {
+      "path": "mods/Botania-1.16.5-420.2.jar",
+      "hash": "22bc4045d36358c63e6562c8f58562a29085b7f2"
+    },
+    {
+      "path": "mods/bwncr-1.16.5-3.10.16.jar",
+      "hash": "9613759fa750abb12824bb0a6f7a22f2559214a8"
+    },
+    {
+      "path": "mods/catalogue-1.5.0-1.16.5.jar",
+      "hash": "807f8d67280f2f3899ff85792936d700da6a5049"
+    },
+    {
+      "path": "mods/CBMultipart-1.16.5-3.0.4.123-universal.jar",
+      "hash": "7233bfbfa954b4aba2801147fa7dac3f574b732f"
+    },
+    {
+      "path": "mods/ChineseWorkshop-1.16.3-3.2.1.jar",
+      "hash": "35a1373d44977597c2afca061fbc5f0ac8a96c8a"
+    },
+    {
+      "path": "mods/Chisel-MC1.16.5-2.0.1-alpha.4.jar",
+      "hash": "495ac2e30c068c3d458e318a8322aa3309637ff3"
+    },
+    {
+      "path": "mods/chiselsandbits-1.0.63.jar",
+      "hash": "e8651c1cce8df80a932875e2810c0b9e9ded6a85"
+    },
+    {
+      "path": "mods/cloth-config-4.13.49-forge.jar",
+      "hash": "222863e715ce6504ff41f6525d3f71500812de6f"
+    },
+    {
+      "path": "mods/Clumps-6.0.0.27.jar",
+      "hash": "b5ff85e1089a45c181b185bdde89b1063dc20b00"
+    },
+    {
+      "path": "mods/cobblegenrandomizer-1.16-5.1.2.jar",
+      "hash": "cf19491e41ecfd5cf8dbc39544c533b6a0d0e29d"
+    },
+    {
+      "path": "mods/CodeChickenLib-1.16.5-4.0.7.445-universal.jar",
+      "hash": "8e9f473dfb4bf74fab88bc8a0b7eb7a1d365cef4"
+    },
+    {
+      "path": "mods/cofh_core-1.16.5-1.4.2.9.jar",
+      "hash": "bf7208e87843d821d7f7fed47960c7e21241d976"
+    },
+    {
+      "path": "mods/collective-1.16.5-4.25.jar",
+      "hash": "30f3b065ef9851bfe4a4339158ac8e2506885e5d"
+    },
+    {
+      "path": "mods/configured-1.5.1-1.16.5.jar",
+      "hash": "3ecfe55e790ccc73e6acbfd13668f5eb1e9860c4"
+    },
+    {
+      "path": "mods/connectivity-2.4-1.16.5.jar",
+      "hash": "883662eeacebaf02b5be174265b7016270e5cf05"
+    },
+    {
+      "path": "mods/constructionwand-1.16.5-2.6.jar",
+      "hash": "5d3f50a097efacae47b74a0505ce3ea38f55daae"
+    },
+    {
+      "path": "mods/Controlling-7.0.0.28.jar",
+      "hash": "8833b92989a652473a7dff40c28407d2ab4cc5d3"
+    },
+    {
+      "path": "mods/CraftTweaker-1.16.5-7.1.2.491.jar",
+      "hash": "ad213cd041ba37108a03ed2a1e82dfc98accc851"
+    },
+    {
+      "path": "mods/create-mc1.16.5_v0.3.2g.jar",
+      "hash": "5b32b0310d037deed14200e3b748bd02d46d9471"
+    },
+    {
+      "path": "mods/Croptopia-1.16.4-FORGE-1.4.2.jar",
+      "hash": "af64cc28982c01a9e3e3d480685048b43d8c5881"
+    },
+    {
+      "path": "mods/CTM-MC1.16.1-1.1.2.6.jar",
+      "hash": "c097e077974a2c84c4309edfe91d76f6bdc90d4c"
+    },
+    {
+      "path": "mods/curios-forge-1.16.5-4.0.8.1.jar",
+      "hash": "b64ec12f002db10fc85907ae2ab5d534230b2231"
+    },
+    {
+      "path": "mods/DefaultOptions_1.16.5-12.2.1.jar",
+      "hash": "f82b68888df26c65cf2893876b9bd961b99ef935"
+    },
+    {
+      "path": "mods/ExCompressum_1.16.5-4.0.5.jar",
+      "hash": "d4af0c9b86cf906f9a85b00d9d7a8e07784e8215"
+    },
+    {
+      "path": "mods/exnihiloae-1.16-1.0.0.2.jar",
+      "hash": "397acf591e5bc7fa2cd3dfe8e0e4dfcc78afd9b1"
+    },
+    {
+      "path": "mods/exnihilomekanism-1.16-1.0.0.1.jar",
+      "hash": "ee476f7526fc19a3e919a166cf87aa7fb3bcc293"
+    },
+    {
+      "path": "mods/exnihilosequentia-1.16-20220115-185452.jar",
+      "hash": "1349906854fdc3cf2df52cf7eb8906cd4945f684"
+    },
+    {
+      "path": "mods/exnihilothermal-1.16-1.0.0.0.jar",
+      "hash": "290b9b9e151a278159698185b2eb3e6ea9eb28a3"
+    },
+    {
+      "path": "mods/exnihilotinkers-1.16-1.0.0.0.jar",
+      "hash": "687d97d26af8417543d5cef86be20a2870a65de1"
+    },
+    {
+      "path": "mods/ExtraBotany-r1.2-68.jar",
+      "hash": "9339271fc72d52f34d67b2021ffd6125a6f7cbe2"
+    },
+    {
+      "path": "mods/FarmersDelight-1.16.5-0.5.4.jar",
+      "hash": "c71745ad73ab389ade32f0a5dfb9c706490548db"
+    },
+    {
+      "path": "mods/farmerstea-1.16.5-1.3.jar",
+      "hash": "cb86f4101afcad09904be34281e3ac1d039e0cad"
+    },
+    {
+      "path": "mods/farsight-1.7.jar",
+      "hash": "4c069009bc869f72a7c822850fea1d08c8ad9cee"
+    },
+    {
+      "path": "mods/fastfurnaceminusreplacement-1.1-1.16.3.jar",
+      "hash": "8c7af5a173b56a57ccebf82595d2af2ad04f092d"
+    },
+    {
+      "path": "mods/FastLeafDecay-v25.2.jar",
+      "hash": "daa2b93322bff163a5c9b4653d38fe93b0725743"
+    },
+    {
+      "path": "mods/FastWorkbench-1.16.5-4.6.1.jar",
+      "hash": "ce5f4d22ab99ede9479cd888e83c196e93b8718b"
+    },
+    {
+      "path": "mods/fd_cookbook-2.0.jar",
+      "hash": "2b24900e77d765e4fe7c2da64168b1675a0e93c8"
+    },
+    {
+      "path": "mods/ferritecore-2.1.0-forge.jar",
+      "hash": "50e7db5712b5ab8a2d96624eaff11cacb067824a"
+    },
+    {
+      "path": "mods/fixed-1.1.0.jar",
+      "hash": "a2c9700fd9879309abe063a56d4bf266731a983f"
+    },
+    {
+      "path": "mods/flywheel-1.16-0.2.5.jar",
+      "hash": "30dbb119ce3d455bee065c0bef04a00827b3a5b3"
+    },
+    {
+      "path": "mods/FpsReducer-forge-1.24-mc1.16.5.jar",
+      "hash": "46b54c1dc54a560593d938cd73cee5c28e8465f6"
+    },
+    {
+      "path": "mods/FruitTrees-1.16.5-2.4.3.jar",
+      "hash": "9cb5051b395ad36d876366990e5fcbee18adc8a6"
+    },
+    {
+      "path": "mods/ftb-chunks-forge-1605.3.2-build.115.jar",
+      "hash": "76937e40c1b9bb18d76d3f3c490d8d105c2a65b8"
+    },
+    {
+      "path": "mods/ftb-library-forge-1605.3.4-build.90.jar",
+      "hash": "23ade163a6b1bff75e4d819321b43df16f9bfb79"
+    },
+    {
+      "path": "mods/ftb-quests-forge-1605.3.6-build.98.jar",
+      "hash": "8fd4b9a42244360d8d54568658297d58996a4ece"
+    },
+    {
+      "path": "mods/ftb-ranks-forge-1605.1.5-build.16.jar",
+      "hash": "47b440287376ae7957175c5135a2dc3c4692a84e"
+    },
+    {
+      "path": "mods/ftb-teams-forge-1605.2.3-build.40.jar",
+      "hash": "1f37f10fcb5f02bd3217aeca02d496529629315d"
+    },
+    {
+      "path": "mods/ftb-ultimine-forge-1605.3.1-build.45.jar",
+      "hash": "165e90456366f98899b50f6c9bef7666a4c121bb"
+    },
+    {
+      "path": "mods/GameMenuModOption-1.16.4-1.8.2.jar",
+      "hash": "36bceda1980b6f1912a919a2e13cbf5630416da1"
+    },
+    {
+      "path": "mods/geckolib-forge-1.16.5-3.0.65.jar",
+      "hash": "187b5e73747f1a0f1b2bd24a8e9cc31d5a997a5a"
+    },
+    {
+      "path": "mods/i18nupdatemod-1.16.5-2.0.3.jar",
+      "hash": "c7270e25b9535e2af0d04c784ff823835a551910"
+    },
+    {
+      "path": "mods/infernalmobs-1.16.2.1.jar",
+      "hash": "6cc0d15f1b17c7b93005ebf8708930bb7825d923"
+    },
+    {
+      "path": "mods/ironchest-1.16.5-11.2.21.jar",
+      "hash": "59e263b8dd04ad2742def8b3773d5e2f6e1ba03c"
+    },
+    {
+      "path": "mods/item-filters-forge-1605.2.5-build.9.jar",
+      "hash": "52c14355c8e416d30f92eb2a2544f397f4693c34"
+    },
+    {
+      "path": "mods/Jade-1.16.4-2.8.1.jar",
+      "hash": "bfb8f6c0c755ed7f86eaa4851e91322272ee7b6d"
+    },
+    {
+      "path": "mods/jei-1.16.5-7.7.1.145.jar",
+      "hash": "4fdadcbb0b81f2b2d1cec805a3cf15ba513de6ec"
+    },
+    {
+      "path": "mods/jeiintegration_1.16.5-7.0.1.15.jar",
+      "hash": "8f3ee8d6b2c067294279f0502c39850b82885cb5"
+    },
+    {
+      "path": "mods/JustEnoughCharacters-1.16.4-4.3.2.jar",
+      "hash": "2231a7585b8bd6cde777dc19bebd1e316e5b96c9"
+    },
+    {
+      "path": "mods/JustEnoughResources-1.16.3-0.12.0.100.jar",
+      "hash": "33ddbadc6287c99287a0cf58bb1a0c64034ff9e8"
+    },
+    {
+      "path": "mods/Kiwi-1.16.5-3.6.1.jar",
+      "hash": "b21d0e18f0552e28fc9175dcb4472094b8e4b688"
+    },
+    {
+      "path": "mods/KraysCandles-1.16.4-1.0.6.jar",
+      "hash": "2ebc2201b6c5140df1c266230aeda6f2176aa0a8"
+    },
+    {
+      "path": "mods/kubejs-create-1605.1.4-build.12.jar",
+      "hash": "be87887093cfe365e88ad2422b38e95bfb88326b"
+    },
+    {
+      "path": "mods/kubejs-forge-1605.3.19-build.289.jar",
+      "hash": "a49e27ac48bbf0b45c5441a7f3a62c1edf168a1e"
+    },
+    {
+      "path": "mods/kubejs-mekanism-1605.1.2-build.2.jar",
+      "hash": "10a69a097f6bac38fdd759efbd31327fdc1cc666"
+    },
+    {
+      "path": "mods/kubejs-thermal-1605.1.4-build.4.jar",
+      "hash": "0b2180832c27eab7b5861f92ba2fdf7ab4ec6dff"
+    },
+    {
+      "path": "mods/LibVulpes-1.16.5-1.0.2-27-universal.jar",
+      "hash": "57584c09e33038b2d598502ab5444464107877ad"
+    },
+    {
+      "path": "mods/light-overlay-5.8.1.jar",
+      "hash": "435e0832d8ba53c99cdeec931a3be52873e7ac1d"
+    },
+    {
+      "path": "mods/lootr-1.16.5-0.1.12.42.jar",
+      "hash": "a8a8b84b33b3ca11f83653d31f746d14b8bc1589"
+    },
+    {
+      "path": "mods/mana-and-artifice-1.5.1.7.jar",
+      "hash": "723578d61c100750b2b811bec3997c279c03c2cc"
+    },
+    {
+      "path": "mods/Mantle-1.16.5-1.6.157.jar",
+      "hash": "61cd1d256a29445d153bd076e090f6172eff2aff"
+    },
+    {
+      "path": "mods/mcjtylib-1.16-5.1.3.jar",
+      "hash": "2eda9cc8a320f4a9549c05c7f512cd7f7f258eb2"
+    },
+    {
+      "path": "mods/Mekanism-1.16.5-10.1.1.456.jar",
+      "hash": "10d813f91432740a1ed3b4f30ce998fe248350a7"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.16.5-10.1.1.456.jar",
+      "hash": "d775667396bc49efa1067caf59cff30b589d2faa"
+    },
+    {
+      "path": "mods/ModernUI-1.16.5-2.6.4.92-universal.jar",
+      "hash": "eb6267c220466e6a34b75a7a3ca0d1a62aeabbed"
+    },
+    {
+      "path": "mods/MouseTweaks-2.14-mc1.16.2.jar",
+      "hash": "5f2366c650c102c71e98c9445f86a266ba20e1e4"
+    },
+    {
+      "path": "mods/moveminecarts_1.16.5-1.7.jar",
+      "hash": "c4836c923b648d4d601b41dd83d55cd3264bcdfa"
+    },
+    {
+      "path": "mods/notenoughcrashes-4.1.4+1.16.5-forge.jar",
+      "hash": "29320598177149b2236bd06269fe9b754f62a7a0"
+    },
+    {
+      "path": "mods/observerlib-1.16.5-1.5.3.jar",
+      "hash": "a5136bf50a6dba827ceb0e80cd1118bcba193a27"
+    },
+    {
+      "path": "mods/OpenLoader-1.16.5-9.0.3.jar",
+      "hash": "d3b23eb2da0571b6378528668bdbd142f0d8654d"
+    },
+    {
+      "path": "mods/OptiFine_1.16.5_HD_U_G8.jar",
+      "hash": "137363842c5bfdebb72356a4079faeef3157eb3c"
+    },
+    {
+      "path": "mods/Patchouli-1.16.4-53.2.jar",
+      "hash": "99d57bfeaf9b046cde2fb68fba283ac26aebc963"
+    },
+    {
+      "path": "mods/Placebo-1.16.5-4.6.1.jar",
+      "hash": "b29cb61a17588639a5d8b7a5ba72f580fa87e511"
+    },
+    {
+      "path": "mods/polymorph-forge-1.16.5-0.39.jar",
+      "hash": "4fd74662431844394d07ba879dd8708a4f1c85aa"
+    },
+    {
+      "path": "mods/ponderjs-1.16.5-1.0.3d.jar",
+      "hash": "1ed16a0335eb533f4395992066ccd3b79bd0dac0"
+    },
+    {
+      "path": "mods/ProjectRed-1.16.5-4.11.0-core.jar",
+      "hash": "9b2e8de49d8a1657299565cb30ab194ec015aee7"
+    },
+    {
+      "path": "mods/ProjectRed-1.16.5-4.11.0-illumination.jar",
+      "hash": "3eca049579a67c73ada1b343184daf40f54b2c20"
+    },
+    {
+      "path": "mods/ProjectRed-1.16.5-4.11.0-integration.jar",
+      "hash": "c5a5fd93c96b118d9805097ca9a9f3e7cc2ac3e9"
+    },
+    {
+      "path": "mods/Psi+1.16-97.jar",
+      "hash": "27893311063e7aa462c99222a75ae3ede7846845"
+    },
+    {
+      "path": "mods/Quark-r2.4-322.jar",
+      "hash": "c314a534737baba9416c4947e15f81c6243f9844"
+    },
+    {
+      "path": "mods/rftoolsbase-1.16-2.1.2.jar",
+      "hash": "791bd3a295c6f952d66e43f5d4582dae9bfae8e0"
+    },
+    {
+      "path": "mods/rhino-forge-1605.1.5-build.75.jar",
+      "hash": "d7cf08ed860845564a22cd17c1f17f857d4b33dd"
+    },
+    {
+      "path": "mods/Scorge-3.1.3.jar",
+      "hash": "0215ac06f10921ab1ce0026731264289058d17e2"
+    },
+    {
+      "path": "mods/shutupexperimentalsettings-1.0.3.jar",
+      "hash": "0db5333ee87e5672026912fb0c7b77d34e27d13c"
+    },
+    {
+      "path": "mods/simplytea-1.16.5-2.4.0.jar",
+      "hash": "9d010decf9ecfff8f879547b2a28dce43b3ca6b0"
+    },
+    {
+      "path": "mods/SlashBlade-1.16-0.0.12.1.jar",
+      "hash": "51055ea6a157520d609e972e89607e81f35057e0"
+    },
+    {
+      "path": "mods/smoothboot-forge-1.16.4-1.2.2.jar",
+      "hash": "483f6d696b5166fd0f3fbf6b2e8138bc39db2660"
+    },
+    {
+      "path": "mods/spark-forge.jar",
+      "hash": "3fe6f628e5d0239436dc2776f3193e3f0f66856c"
+    },
+    {
+      "path": "mods/SpawnerFix-1.16.2-1.0.0.2.jar",
+      "hash": "7afca46cda651407d537ab2b25b06d3320731b06"
+    },
+    {
+      "path": "mods/steampowered-1.16.5-1.1.14.jar",
+      "hash": "d93cf645578189a8b15f62b775b792870a39856f"
+    },
+    {
+      "path": "mods/StorageDrawers-1.16.3-8.5.1.jar",
+      "hash": "4e8a3512a795833e047305d0b46bb3b74d45f73f"
+    },
+    {
+      "path": "mods/TConstruct-1.16.5-3.3.4.335.jar",
+      "hash": "bfccf8cb255bc64101c0ae27cac7f3b386b88078"
+    },
+    {
+      "path": "mods/thermal_cultivation-1.16.5-1.4.1.3.jar",
+      "hash": "bc14d39c76c3d40c82f9a4f7525c8b07bd767944"
+    },
+    {
+      "path": "mods/thermal_expansion-1.16.5-1.4.2.4.jar",
+      "hash": "b067c79d5fead713aa204a5465c3aa0608cf9116"
+    },
+    {
+      "path": "mods/thermal_foundation-1.16.5-1.4.3.10.jar",
+      "hash": "4257d43d4f92974b66043db9f9f067f3731bf40e"
+    },
+    {
+      "path": "mods/thermal_innovation-1.16.5-1.4.1.3.jar",
+      "hash": "3881b4eef64cd0ad6fe1e7efea1ab6d0bf8680f8"
+    },
+    {
+      "path": "mods/thermal_locomotion-1.16.5-1.4.1.2.jar",
+      "hash": "3a7e91b52f5dc082d16f38e8eb62caa935faeed6"
+    },
+    {
+      "path": "mods/worldshape-1.0.jar",
+      "hash": "425373e3908c5eb8a1991d6a877244d05cd9ea16"
+    },
+    {
+      "path": "mods/xkdeco_0.2.4.jar",
+      "hash": "f326590d95e85d77ea5b7c69f6c1eec5118ecdb9"
+    },
+    {
+      "path": "mods/xlpackets-1.16.4-1.2.jar",
+      "hash": "75df3e5ce7f55dd5013ac941cdfa7d518388fc33"
+    },
+    {
+      "path": "mods/xnet-1.16-3.0.16.jar",
+      "hash": "7e3d1e3bfe5d24bc698e9611a9cd8c34b85d49d9"
+    },
+    {
+      "path": "mods/XNetGases-1.16.5-2.3.9.jar",
+      "hash": "05521a3120f44059bf640568b7056fc1edc5bbc8"
+    },
+    {
+      "path": "mods/Yamazakura-1.16.4-r2.jar",
+      "hash": "7f96d7471b6ef0add2e22e44704da0cd53ecf226"
+    },
+    {
+      "path": "mods/_MixinBootstrap-1.1.0.jar",
+      "hash": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
+    },
+    {
+      "path": "openloader/.cache",
+      "hash": "1218386ac8c0260001d7d9e520ecaa25d501f94b"
+    },
+    {
+      "path": "openloader/data/generated_datapack.zip",
+      "hash": "cd3f036e60218ea8038616993fe623b41a0696b1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/fueltank.json",
+      "hash": "6452deb8fce6927b1741c049e4fbc16ad6eee02b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/launchpad.json",
+      "hash": "be61b684485bd9ab7adee1b7bbdaee05c2430b90"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/moonturf.json",
+      "hash": "6d1aa2618acafa8389bcfffbf6e2d9fa6f983533"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/blockstates/rocketmotor.json",
+      "hash": "64ec913927a2c6f157e05be40d48cd2cffe4c07f"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/lang/en_us.json",
+      "hash": "965bd036a0e342a4410350218d9eeb3be0175de4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/fuelingstation.json",
+      "hash": "7d2c393e58711ebe445e90c1e19686c0e6800298"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/fueltank.json",
+      "hash": "5e7a2b88150ab7db99e88a18b0bde2f70505f467"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/guidancecomputer.json",
+      "hash": "2bcbb294f7d6c779e2861138e0a0f1e9110f63a2"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/launchpad_all.json",
+      "hash": "40a8f1559c7bb6e83e7c016ee7dfc4d91ef02744"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_1.json",
+      "hash": "db6518d004011f5cfdd38a37b634f00cf13aad50"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_2.json",
+      "hash": "5f596724b87028ad353dda9101e9ee5e6ea84e57"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygencharger.json",
+      "hash": "acd8c485e93b0c7af97b70e298d2ae64e5088e46"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygenvent.json",
+      "hash": "c8e454ab116f25c9cef74aefe88fa4982a1f2d29"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketbuilder.json",
+      "hash": "7517ecd0204b7919b0ac4f46c61dbfc3422fe90f"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketmotor.json",
+      "hash": "3956b7656b07636790bb4a0b1cad2084e6751536"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/seat.json",
+      "hash": "846a1f2f62cb8c7378f591177271f40d7137441e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/block/structuretower.json",
+      "hash": "33c343048158fd4a0ba70f8b5a2627fe9f7ff19d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/item/fueltank.json",
+      "hash": "8d3f47b4eb0aebd36a24fe01797bf3baace7c792"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/item/launchpad.json",
+      "hash": "9ef76a31a1c95b7797592ead4f6031bd345be339"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/models/item/rocketmotor.json",
+      "hash": "320673e065324c9f2960a7021ad627567a16ebe6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1.png",
+      "hash": "d0f915c94d4097f70be0842d44f3e2d748a554f7"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1_overlay.png",
+      "hash": "3cde286a52471948a10131ccf5a4d8f76e0d83cb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2.png",
+      "hash": "6c471485bace7ee9231d03a2db9b209ae9a39337"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2_overlay.png",
+      "hash": "4a598a9968691853f256dbe162535e5f3e44a3e9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/assembler.png",
+      "hash": "31a9c7d09ac3ca771ddc1897e40c47f9eb9437c9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png",
+      "hash": "52a19f24ceee4fb2b73a0954b95ca489cb2ffb87"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png.mcmeta",
+      "hash": "d103f706eb44f690fe3bdd8f88665ab07ed452a6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png",
+      "hash": "90c1fe7fa39abfd5eadc025d962eb5a660add6f2"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png.mcmeta",
+      "hash": "d103f706eb44f690fe3bdd8f88665ab07ed452a6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fuelloader.png",
+      "hash": "5db162e1b9ae1a7e54d226cf23d779345cff4ba5"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png",
+      "hash": "66f0846af22f5783b04c758019883603075b2338"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png.mcmeta",
+      "hash": "fa47c476c77a5743f446502304f617f0b0c286ba"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_ctm.png",
+      "hash": "b29256b82a869ca60e15b4955697af2f11c4ddb4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_top.png",
+      "hash": "d8355e9caeb0f2cbecae9d404fe3315de2d416a6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/gaschargertop.png",
+      "hash": "1953950487b9247ed9dbf02ed4cb894c4b9f3fcc"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/guidancecomputer.png",
+      "hash": "a6ebccdfded70a32aab154fc31b4943a250be607"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine.png",
+      "hash": "eea8ae2e0d097849961efd4f2d35a28c283a23ab"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent.png",
+      "hash": "de53ee2bde4b9c3ff510b4cb563224d1667d0513"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent_end.png",
+      "hash": "d46fb8b3efc1dadc0e850fa7047fdac0a66855fb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine_end.png",
+      "hash": "d46fb8b3efc1dadc0e850fa7047fdac0a66855fb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf.png",
+      "hash": "6c1eea589e6f2b933905fc4996fc4a067e799eab"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_1.png",
+      "hash": "1909f2e73e634523e8040f2bceef1dadde566dcd"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_2.png",
+      "hash": "af17cf04cb5b6b8295c13134cff4ce5296490946"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/panelside.png",
+      "hash": "817df25508681b881c1229d988afe33446d10236"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png",
+      "hash": "1a53382c4651d0d65ebb65dba28f402962c15187"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png.mcmeta",
+      "hash": "7c835c23f91f391502f227e9486c21ef6f9ae655"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png",
+      "hash": "ad95993009406e110b4287b5cb68ab919a251b78"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png.mcmeta",
+      "hash": "c824bc6385531e37bade996b4f1ac4b1c0ec5b1e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top_ctm.png",
+      "hash": "4aa22fb535a5476b7d84f451f20a1c721c642822"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold-ctm.png",
+      "hash": "8b1091a713419f5fdffaca12061f422843b7eba3"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png",
+      "hash": "8b5cec67062b4446b4535977f99bd36a9d087159"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png.mcmeta",
+      "hash": "60c27bc13f831c261a348007fa065aaf8ab4756d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat.png",
+      "hash": "f04571b88608c7afad9068ec3c39394bff4aa323"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat_top.png",
+      "hash": "47555e44d169c19bd3334e0b42e9d8e7db41af9b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/tank_inner.png",
+      "hash": "81223a3912acd3c952f1a88c81dc7bd39ad2024e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster.png",
+      "hash": "08a75ee0ec6212a63f4d75491104ed00aad7cb6e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster_top.png",
+      "hash": "61bed755a2e3db8ff58d6d3da41295abf143b8a9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun.png",
+      "hash": "39c4f08d3b0fc229ac2fd10ad3474ce2d7a52ba9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun2.png",
+      "hash": "17f2f6ec628aa1c8176803eff6343fefbc7833a9"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/gui/rockethud.png",
+      "hash": "5e5b0a392d6f626fa252dd3803c3816b50553cc7"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/planetidchip.png",
+      "hash": "aaf47c47332dfeb2970e6fba5fe71d73c3fe695d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet.png",
+      "hash": "5b24c10eb0320de3df19b8f13d59fa3b537e10cf"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet_overlay.png",
+      "hash": "d87d2f43d94a92f6932f0976ec84ce7bdcdacc8a"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_hydrogen.png",
+      "hash": "e13bb284559163bd94c1b9e0bad3c90f8d57fe23"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_oxygen.png",
+      "hash": "fdd405ae9864263093348a74c463ec50ec2f6263"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/models/girder.png",
+      "hash": "a166f3fdda7bb860185fb953c2c7bda22d92abbd"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/models/grid.png",
+      "hash": "82c9a76e7650164c83ca8fd1e56d550f1c61322c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/models/round_h.png",
+      "hash": "0deac66cb227df56ad1179997d91f05c99b70d21"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/atmosphere2.png",
+      "hash": "c14b3efa08c5d114adf57d5a1f8169ca5d863a01"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.pdn",
+      "hash": "11b459af6752550916111987a37424e92a70a403"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.png",
+      "hash": "31a0482c8f71b8b88b5d7bdd45cbfcf66272ab1b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikebase.png",
+      "hash": "34e9ecc4b54704de6a7a6940428cc2f005481881"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikeleo.jpg",
+      "hash": "554e910037cd0cde7e1b787b2af27b707c626c2d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moon.png",
+      "hash": "492cbaf41238949f87a55ac394809b93fba93510"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moonleo.jpg",
+      "hash": "b9fee2d661535c08d5d81f2d698d2a88455384e6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadow.png",
+      "hash": "694322ee01fa4da8b0a158ea933998d30a8a2a36"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadowold.png",
+      "hash": "5cc5b95070a7bcaa0a3f05ba77f78d436aaac428"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/lang/zh_cn.json",
+      "hash": "8b3b42fe0b63f60409f55cb8747f974ca63229bb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/charger.json",
+      "hash": "0078336e2a874851458f0f2614f5a0d213b89f46"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_base.json",
+      "hash": "a5a2a8757d031ce0699cb381e15172aa6f8ea2ea"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_pointer.json",
+      "hash": "5f8f6da258249c243264322dbc32746948784c32"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/charger.png",
+      "hash": "4ef29043f73973f3c7b78fa5d6018360cfb82bc6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/sky_compass.png",
+      "hash": "81c0e960aa1c213f25e92c4b9c44aa8b92bcaa2b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/calculation_processor.png",
+      "hash": "cbda11c963c7df5a9436582909d48a7c46f40c89"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/printed_calculation_processor.png",
+      "hash": "e145adbe3153560d335c4df9069ec2bc95fe546e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/lang/zh_cn.json",
+      "hash": "8fd9523946ff6d9f9524726eba9994439686a21b"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/block.json",
+      "hash": "82cf1d84aea0ae7aa75a946e3939181d037c7d66"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/item.json",
+      "hash": "a07a3981b32c7c53127890f82ec24962eee4ae36"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/textures/block/portable_storage_interface.png",
+      "hash": "34413bf8c95eeedf2d97fd489cec3c0b777a254c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/textures/item/golden_electron_tube_unused.png",
+      "hash": "0f301dc716e16b835f39a58668980388a08bb563"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/create/textures/item/incomplete_precision_mechanism.png",
+      "hash": "f3e3a31b7cf974b6416b77b6b6273063f0353a50"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/libvulpes/lang/en_us.json",
+      "hash": "480eed2fa3319b8cd2abce3213eb26f286f74a55"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/libvulpes/models/item/linker.json",
+      "hash": "777fa5c9269b42300e1f307b3b9cff032fefd22d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/libvulpes/textures/item/linker.png",
+      "hash": "48c1105700283dcff6834e454ee682e69bdaf3ff"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/projectred-core/lang/en_us.json",
+      "hash": "f5603b0a4b501f8091ceb7b61168c3929952af14"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/tconstruct/lang/zh_cn.json",
+      "hash": "003a8d61e27898e86379f2821e5f882a62681308"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/lang/en_us.json",
+      "hash": "9db8f3deee9e8acd226d5db2b61c5846a7f49698"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/models/block/machine_press.json",
+      "hash": "dab4a9b2681e18aeaf8f30b7a42e60d0ba15d23e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/config/machine_config_accessible.png",
+      "hash": "86b51a68074595e42834202facb8516b016bbd6e"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector.png",
+      "hash": "baaef783a7f80400e488651d31bf4a168ac754fb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_active.png",
+      "hash": "14cbff4033fd0a2c4af70f8227802030423f6bad"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_bottom.png",
+      "hash": "54615b63e495b8b51bbc35a561adc2df1f7df979"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side.png",
+      "hash": "2cea88a75cc0738198f3b97270ddb20bde1d5596"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side_active.png",
+      "hash": "61b5df18b35cd12699eab166fda2e2f510db4922"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier.png",
+      "hash": "86c8f5effb48b7c631f5b98c76f4c100e172cc26"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png",
+      "hash": "930b339df6c34f3b8e441b9989b671cc905a5b4d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png.mcmeta",
+      "hash": "201813cc62818fc31ab1c48fb1c8d9d6073b7c80"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_bottom.png",
+      "hash": "1a2f4c824fd0ef7db7fb3ddd77e189fdaaa8e918"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_side.png",
+      "hash": "3e77ad492376a993d63cd214293ee0d211fd39e4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen.png",
+      "hash": "c51a4e0b5e4e4d8fbebcedfe2639362c76c75832"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png",
+      "hash": "d0cdc2c192cce0b7b74e7699e95c347c5305531d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png.mcmeta",
+      "hash": "6c7b56c68fe3600e6c49a8827132a9d6c45a7f93"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_bottom.png",
+      "hash": "0b3683287ad8a258236ba4613cfab14fb43a6f43"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side.png",
+      "hash": "49e76d5456b4d652a98b26aef7bf4c2c91127e19"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side_active.png",
+      "hash": "f3ce2a6df162bc8d5bea10435bb3daa0c8c6c656"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png",
+      "hash": "db36abc96eb89ec486cc8f94a8dc8b1667c6271d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png.mcmeta",
+      "hash": "b09b4a1106c0fcf90a8a839969e253c1741cd7f6"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_front.png",
+      "hash": "dc7b93dbab0d3ca167133faf218bdaffa2282f19"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_side.png",
+      "hash": "fd1cc43d415691180810746293b7f65b7a0859eb"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/gui/jei_handler.png",
+      "hash": "57b2f1e9f89688252b3327f7022594afb36853b1"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_1.png",
+      "hash": "6d40da608b845234333c9976231fcce88e9ee944"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_2.png",
+      "hash": "9fa96af5f9a9a0faca8c25ac4e777f4869723987"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/dusts/apatite_dust.png",
+      "hash": "6d03ff5302b5a07cba5540d275c67beda46a87f4"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/dusts/cinnabar_dust.png",
+      "hash": "9166c51dbf089c2a54d8a337849d89be6c97e63d"
+    },
+    {
+      "path": "openloader/resources/simis_edits/assets/thermal/textures/item/ingots/invar_ingot.png",
+      "hash": "7d1a6d120e05aeab7ebd2fcac18109d31a7e573c"
+    },
+    {
+      "path": "openloader/resources/simis_edits/pack.mcmeta",
+      "hash": "8a255b94c25765294305b933aeaeba3792dcc77d"
+    },
+    {
+      "path": "options.txt",
+      "hash": "7dec87ebca5e185133753f75512b7c5fbc239d80"
+    },
+    {
+      "path": "optionsof.txt",
+      "hash": "b8df51af05590cfde01640fb2db925dccaaf2633"
+    },
+    {
+      "path": "PCL/Setup.ini",
+      "hash": "6b995b5ea2a0314382d55a6bae0aedb1cf1177ca"
+    },
+    {
+      "path": "resourcepacks/Forge服叉号移除.zip",
+      "hash": "726589949b484e33b53e4b3a3c173c859b16a4a2"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-1-16.zip",
+      "hash": "85f7df83af2c4b7621750a9231c9d3ce20903b1d"
+    },
+    {
+      "path": "resourcepacks/Quark Programmer Art.zip",
+      "hash": "c1ea21228f2aac1ffc4f38dac8604d13b4b0681d"
+    },
+    {
+      "path": "scripts/remove.zs",
+      "hash": "3a6f6aa9ab47767595e46f4f6d75e53aa6f71150"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "951083425ac006565091e341262603c45546c284"
+    },
+    {
+      "path": "ServerSyncClient.exe",
+      "hash": "5d046988f70984d8f66ad2008998b68f8f1039f0"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.16.5"
+    },
+    {
+      "id": "forge",
+      "version": "36.2.33"
+    }
+  ]
+}
